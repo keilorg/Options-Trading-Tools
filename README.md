@@ -9,4 +9,4 @@ This tool provides a practice options board with just enough initial information
 ### Details
 There are four excel sheets in the document. The first sheet is a simplified version of an equity options board with two months. Five strikes are included in each month, the call options are to be entered on the left side, and the puts on the right. The stock market is given at the top (here, the best stock bid is 78.27 and the best offer is 78.29) (see Pic1):
 
-![Pic1](/Users/keilorgilbert/Desktop/Pic1.png)
+![Pic1](https://github.com/keilorg/Options-Trading-Tools/blob/main/Pic1.png)
